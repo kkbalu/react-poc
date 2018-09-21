@@ -1,0 +1,44 @@
+.App {
+  text-align: left;
+}
+
+.App-header {
+  background-color: #ca3458;
+  height: 20px;
+  padding: 10px;
+  color: white;
+}
+
+.App-title {
+  margin: 0px;
+}
+
+.App-intro {
+  font-size: large;
+}
+ul{
+  padding: 0px;
+}
+li{
+  list-style-type: none;
+  padding: 10px;
+  text-align: left;
+}
+li span.label{
+  font-size: 14px;
+  color: rgb(148, 148, 148);
+}
+.ReactTable .rt-tbody .rt-td { 
+  text-align: left;
+}
+.nav{
+  text-align: right;
+}
+.nav ul{
+  padding: 0px;
+  margin: 0px;
+}
+.nav ul li{
+  display: inline-block;
+  font-size: 14px;
+}
